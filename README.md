@@ -46,7 +46,7 @@ Further develop my skills in the above and pick up ServiceNow development. I'd a
 
 1. Keep building my network
 1. Tidy up and make my project repos public
-1. Build my professional profile website
+1. Build a professional profile website
 1. Create content
 1. Build more projects
 
@@ -54,20 +54,5 @@ Further develop my skills in the above and pick up ServiceNow development. I'd a
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nate-0hZ&layout=compact)
 
-
-<!--
-**nate-0hz/nate-0hz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
