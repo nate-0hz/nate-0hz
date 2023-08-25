@@ -10,7 +10,9 @@ Junior full stack developer, embarking on a carrer change and drawing on a life 
 
 :two_men_holding_hands: Husband to Nick
 
-:desert_island: Up next: Thailand, Korea, Europe. Cruising the Pacific
+:flight_departure: Up next: Thailand, Korea, Europe. Cruising the Pacific
+
+:tv: K-drama, instructional videos on YouTube
 
 ### Technologies unlocked
 
