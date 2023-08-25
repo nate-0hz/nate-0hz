@@ -44,7 +44,7 @@ Further develop my skills in the above and pick up ServiceNow development. I'd a
 
 ### for doing
 
-1. Continue contributing to my network
+1. Continue growing my network
 1. Tidy up and make my project repos public
 1. Build a professional profile website
 1. Create content
