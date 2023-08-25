@@ -6,16 +6,15 @@ Junior full stack developer, embarking on a carrer change and drawing on a life 
 
 :office: ServiceNow, Service Management, Workforce Management, Key Accounts, Customer Experience
 
-:house-with-garden: Melbourne, Australia
+:house: Melbourne, Australia
 
 :two_men_holding_hands: Husband to Nick
 
-:desert-island: Up next: Thailand, Korea, Europe. Cruising the Pacific
+:island: Up next: Thailand, Korea, Europe. Cruising the Pacific
 
 ### Technologies unlocked
 
-<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
-<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+<img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" /> <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
