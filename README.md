@@ -47,9 +47,9 @@ Further develop my skills in the above and pick up ServiceNow development. I'd a
 1. Create content
 1. Build more projects
 
+<br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nate-0hz&show_icons=true&theme=synthwave)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nate-0hZ&layout=compact)
 
 
 <!--
