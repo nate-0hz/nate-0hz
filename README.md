@@ -2,7 +2,7 @@
 
 # Hi, I'm Nate 
 
-Junior full stack developer, embarking on a carrer change and drawing on a life of experience.
+Junior full stack developer, embarking on a career change and drawing on a life of experience.
 
 :office: ServiceNow, Service Management, Workforce Management, Key Accounts, Customer Experience
 
