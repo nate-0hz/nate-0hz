@@ -2,15 +2,13 @@
 
 # Hi, I'm Nate 
 
-Junior full stack developer, embarking on a career change and drawing on a life of experience.
+Fresh full stack developer, embarking on a career change and drawing on a life of experience.
 
 :office: ServiceNow, Service Management, Workforce Management, Key Accounts, Customer Experience
 
 :house: Melbourne, Australia
 
-:two_men_holding_hands: Husband to Nick
-
-:flight_departure: Up next: Thailand, Korea, Europe. Cruising the Pacific
+:flight_departure: Up next: Queensland, Thailand, Korea.
 
 :tv: K-drama, instructional videos on YouTube
 
