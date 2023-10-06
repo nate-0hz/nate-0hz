@@ -10,7 +10,7 @@ Fresh full stack developer, embarking on a new career direction, and drawing on 
 
 :flight_departure: Up next: Queensland, Thailand, Korea.
 
-:tv: K-drama, instructional videos on YouTube
+:tv: K-drama, technology, travel vlogs
 
 ## Technologies unlocked...
 
