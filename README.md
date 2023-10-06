@@ -2,9 +2,9 @@
 
 # Hi, I'm Nate 
 
-Fresh full stack developer, embarking on a career change and drawing on a life of experience.
+Fresh full stack developer, embarking on a new career direction, and drawing on a life of experience.
 
-:office: ServiceNow, Service Management, Workforce Management, Key Accounts, Customer Experience
+:office: Project Leader, ServiceNow, Service Management, Workforce Management, Key Accounts, Customer Experience
 
 :house: Melbourne, Australia
 
