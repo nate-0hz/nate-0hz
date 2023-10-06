@@ -12,7 +12,7 @@ Fresh full stack developer, embarking on a career change and drawing on a life o
 
 :tv: K-drama, instructional videos on YouTube
 
-## Technologies unlocked
+## Technologies unlocked...
 
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" /> <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
@@ -25,7 +25,7 @@ Fresh full stack developer, embarking on a career change and drawing on a life o
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
 
-## Technology unlocking in progress
+## Unlocking in progress...
 
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /> <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
