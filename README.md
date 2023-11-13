@@ -4,7 +4,7 @@
 
 A full stack developer, embarking on a new career direction, and drawing on a life of experiences.
 
-:office: Early Stage Full Stack Developer. Background of: Project Lead, ServiceNow Product Owner, IT Service Management, Workforce Management, Key Accounts, Customer Experience
+:office: Early Stage Full Stack Developer. Background of: Project Lead, IT Service Management, Workforce Management, Key Accounts Sales Management
 
 :house: Melbourne, Australia
 
