@@ -30,7 +30,7 @@ MERN + Python
 | Web Frameworks | ![Static Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
 
 
-### Complementary skills
+### I use
 
 | | |
 |---|---|
