@@ -10,7 +10,7 @@ A full stack developer, embarking on a new career direction, and drawing on a li
 
 :flight_departure: Future holiday destinations: Queensland, Thailand, Korea.
 
-:tv: K-drama, YouTube instructionals (I'm addictied!), travel vlogs
+:tv: K-drama, Sci Fi, travel vlogs
 
 ## Nate Unpacked
 
