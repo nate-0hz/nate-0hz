@@ -33,6 +33,7 @@ MERN + Python
 
 | | |
 |---|---|
+| IDE | ![Static Badge](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 | Collaboration | ![Static Badge](https://img.shields.io/badge/MS_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white) ![Static Badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white) ![Static Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) |
 | Productivity | ![Static Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Static Badge](https://img.shields.io/badge/Obsidian-211338?style=for-the-badge&logo=obsidian&logoColor=white) ![Static Badge](https://img.shields.io/badge/MICROSOFT_365-00A2ED?style=for-the-badge&logo=microsoft&logoColor=white) |
 | Design | ![Static Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![Static Badge](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white) ![Static Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Static Badge](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Static Badge](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)|
