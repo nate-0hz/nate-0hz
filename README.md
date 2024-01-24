@@ -47,7 +47,7 @@ My learning journey is far from over.
 
 I am constantly looking for opportunities to grow and develop both current and new skills. I am interested in learning new languages and technologies, while improving in JS, React, and Python. Next learnings will likely be for ServiceNow development, and React Native, Electron, .NET, or C++.
 
-I would say I am stronger in backend development and databases, although I also love front end and working hard to strengthen skills here.
+I would say I am stronger in backend development and databases, although I also love front end and am working hard to strengthen skills here.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nate-0hZ&layout=compact)
